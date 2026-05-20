@@ -7,7 +7,7 @@ workflows:
         vars:
           XCODE_WORKSPACE: "169NovacryptionLabs.xcworkspace"
           XCODE_SCHEME: "169NovacryptionLabs"
-          BUNDLE_ID: "com.dju.n0v2cr6pt10n"
+          BUNDLE_ID: "com.mor.3lv6r1ss0ftp6ls3"
           APP_STORE_APP_ID: 6756367614
         xcode: latest
         cocoapods: 1.14.2
